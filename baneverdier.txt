@@ -1,0 +1,6 @@
+Høyeste punkt etter 3.skrue (mm):  202
+Laveste punkt etter 2.skrue (mm):  128
+Starthelningsvinkel (grader): -10.8
+Maksimal helningsvinkel (grader): 26.5
+Minste krumningsradius (mm):  280
+Festepunkthøyder (mm): [300. 247. 159. 159. 195. 190. 131. 152.]
